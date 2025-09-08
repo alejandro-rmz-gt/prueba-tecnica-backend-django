@@ -1,2 +1,0 @@
-# prueba-tecnica-backend-django
-
